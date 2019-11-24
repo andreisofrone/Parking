@@ -1,0 +1,11 @@
+/Domain/obj
+/Domain/bin
+/Infrastructure/obj
+/Infrastructure/bin
+/ParkingService/obj
+/ParkingService/bin
+/.vs/ParkingService/v16
+/.vs/ParkingService/config
+/.vs/ParkingService/DesignTimeBuild
+/.vs/ParkingService
+/.vs
